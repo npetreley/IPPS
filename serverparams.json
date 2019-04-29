@@ -1,0 +1,11 @@
+{
+  "params" : [
+      {
+        "CUCM" : "ds-ucm115-1.cisco.com",
+        "USERNAME" : "administrator",
+        "PASSWD" : "ciscopsdt",
+        "PUSERNAME" : "daggett",
+        "PPASSWD" : "beaver"
+      }
+  ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CiscoIPPhoneInput>
+	<Title>Directory title goes here</Title>
+	<Prompt>Prompt text goes here</Prompt>
+	<URL>The target URL for the completed input goes here</URL>
+	<InputItem>
+		<DisplayName>Name of input field to display</DisplayName>
+		<QueryStringParam>The parameter to be added to the target URL</QueryStringParam>
+		<DefaultValue>Value</DefaultValue>
+		<InputFlags>The flag specifying the type of allowable input</InputFlags>
+	</InputItem>
+</CiscoIPPhoneInput>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CiscoIPPhoneImage>
+	<Title>Image title goes here</Title>
+	<Prompt>Prompt text goes here</Prompt>
+	<LocationX>Position information of graphic</LocationX>
+	<LocationY>Position information of graphic</LocationY>
+	<Width>Size information for the graphic</Width>
+	<Height>Size information for the graphic</Height>
+	<Depth>Number of bits per pixel</Depth>
+	<Data>Packed Pixel Data</Data>
+</CiscoIPPhoneImage>

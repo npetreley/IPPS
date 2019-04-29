@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CiscoIPPhoneIconMenu>
+	<Title>Title text goes here</Title>
+	<Prompt>Prompt text goes here</Prompt>
+	<MenuItem>
+		<IconIndex>Indicates what IconItem to display</IconIndex>
+		<Name>The name of each menu item</Name>
+		<URL>The URL associated with the menu item</URL>
+	</MenuItem>
+	<IconItem>
+		<Index>A unique index from 0 to 9</Index>
+		<Height>Size information for the icon</Height>
+		<Width>Size information for the icon</Width>
+		<Depth>Number of bits per pixel</Depth>
+		<Data>Packed Pixel Data</Data>
+	</IconItem>
+</CiscoIPPhoneIconMenu>

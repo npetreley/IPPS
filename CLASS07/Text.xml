@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CiscoIPPhoneText>
+	<Title>Title text goes here</Title>
+	<Prompt>The prompt text goes here</Prompt>
+	<Text>Text to display as the message body goes here</Text>
+</CiscoIPPhoneText>

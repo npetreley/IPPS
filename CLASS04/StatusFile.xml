@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CiscoIPPhoneStatusFile>
+	<Text>This is the text area</Text>
+	<Timer>Timer seed value in seconds</Timer>
+	<LocationX>Horizontal alignment</LocationX>
+	<LocationY>Vertical alignment</LocationY>
+	<URL>location of the PNG image</URL>
+</CiscoIPPhoneStatusFile>

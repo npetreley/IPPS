@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CiscoIPPhoneResponse>
+	<ResponseItem Status"the success or failure of the action" Data="the information associated with the request" URL="the URL or URI specified in the Execute object"/>
+</CiscoIPPhoneResponse>

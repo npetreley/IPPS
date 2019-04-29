@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CiscoIPPhoneExecute>
+	<ExecuteItem URL="The URL or URI to be executed"/>
+</CiscoIPPhoneExecute>

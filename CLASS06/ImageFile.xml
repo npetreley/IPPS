@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CiscoIPPhoneImageFile>
+	<Title>Image Title goes here</Title>
+	<Prompt>Prompt text goes here</Prompt>
+	<LocationX>Horizontal position of graphic</LocationX>
+	<LocationY>Vertical position of graphic</LocationY>
+	<URL>Points to the PNG image</URL>
+</CiscoIPPhoneImageFile>

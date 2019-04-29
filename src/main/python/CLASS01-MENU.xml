@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CiscoIPPhoneMenu>
+	<Title>Title text goes here</Title>
+	<Prompt>Prompt text goes here</Prompt>
+	<MenuItem>
+		<Name>The name of menu item 1</Name>
+		<URL>The URL associated with the menu item</URL>
+	</MenuItem>
+	<MenuItem>
+		<Name>The name of menu item 2</Name>
+		<URL>The URL associated with the menu item</URL>
+	</MenuItem>
+	<MenuItem>
+		<Name>The name of menu item 3</Name>
+		<URL>The URL associated with the menu item</URL>
+	</MenuItem>
+</CiscoIPPhoneMenu>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CiscoIPPhoneDirectory>
+	<Title>Directory title goes here</Title>
+	<Prompt>Prompt text goes here</Prompt>
+	<DirectoryEntry>
+		<Name>The name of the directory entry</Name>
+		<Telephone>The telephone number for the entry</Telephone>
+	</DirectoryEntry>
+</CiscoIPPhoneDirectory> 
